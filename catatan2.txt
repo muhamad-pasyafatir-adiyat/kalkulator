@@ -1,1 +1,1 @@
-git for history commit
+ketika menjalankan perintah git log -n 2, menampilkan detail lengkap, kode hash penu, nama pembuat, tanggal dan pesan, tetapi hanya di batasi untuk 2 commit palinh baru.Sebaliknya git log --oneline --reverse menampilkan seluruh riwayat commit tampah batasjumblah dengan format ringkas 1 baris(hanya kode hash pendek dan pesan saja) dengan urutan terbalih=k dari commit paling awal hinggal paling akhira
