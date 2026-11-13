@@ -2,4 +2,8 @@
 
 #Proyek Latihan Praktim Git
 
-Di buat Oleh :"Muhamad Pasyafatir Adiyat"
+#cara menjalankan
+
+```
+python3 kalkulator.py
+```
