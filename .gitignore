@@ -6,4 +6,5 @@ __pycache__/
 *.log
 
 #File rahasia
-*.env
+*.envvenv/
+*.tmp
