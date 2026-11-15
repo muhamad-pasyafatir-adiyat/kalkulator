@@ -13,3 +13,4 @@ python3 kalkulator.py
 
 ## Penulis
 - Muhamad Pasyafatir Adiyat
+- Operasi dasar matematika
