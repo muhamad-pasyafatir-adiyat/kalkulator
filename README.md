@@ -7,3 +7,6 @@
 ```
 python3 kalkulator.py
 ```
+## Fitur
+
+- Penjumlahan dan pengurangan
