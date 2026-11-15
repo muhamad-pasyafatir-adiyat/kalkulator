@@ -1,4 +1,4 @@
-# kalkulaotr.py, kalkulator sederhana
+# kalkulator.py - Kalkulator sederhana
 from utilitas import format_hasil
 
 
@@ -19,12 +19,15 @@ def bagi(a, b):
         return "Error: pembagian dengan nol"
     return a / b
 
-if __name__ == "__main__":
 
-    print("=== Kalkulator Sederhana v1 ===")
-    print("*** Aplikasi Kalkulator Python ***")
-    
+def maksimum(a, b):
+    return a if a > b else b
+
+
+if __name__ == "__main__":
+    print("Kalkulator Sederhana")
     print(format_hasil("+", 2, 3, tambah(2, 3)))
     print(format_hasil("-", 7, 4, kurang(7, 4)))
+    print(format_hasil("x", 6, 7, kali(6, 7)))
     print(format_hasil(":", 8, 2, bagi(8, 2)))
-    print(format_hasil("*", 6, 7, kali(6, 7)))  
+    print(format_hasil("max", 10, 25, maksimum(10, 25)))
