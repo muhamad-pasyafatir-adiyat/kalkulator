@@ -10,3 +10,6 @@ python3 kalkulator.py
 ## Fitur
 
 - Penjumlahan dan pengurangan
+
+## Penulis
+- Muhamad Pasyafatir Adiyat
