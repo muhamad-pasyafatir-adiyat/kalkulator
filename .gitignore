@@ -1,10 +1,6 @@
-#File hasil kompilasi python
 __pycache__/
 *.pyc
-
-#File log
 *.log
-
-#File rahasia
-*.envvenv/
+*.env
+venv/
 *.tmp
