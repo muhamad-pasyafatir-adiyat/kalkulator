@@ -1,5 +1,5 @@
 # kalkulator.py - Kalkulator sederhana
-from utilitas import format_hasil
+from utilitas import format_hasil, pangkat
 
 
 def tambah(a, b):
@@ -31,3 +31,4 @@ if __name__ == "__main__":
     print(format_hasil("x", 6, 7, kali(6, 7)))
     print(format_hasil(":", 8, 2, bagi(8, 2)))
     print(format_hasil("max", 10, 25, maksimum(10, 25)))
+    print(format_hasil("^", 2, 10, pangkat(2, 10)))
