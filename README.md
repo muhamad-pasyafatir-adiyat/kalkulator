@@ -9,7 +9,7 @@ python3 kalkulator.py
 ```
 ## Fitur
 
-- Penjumlahan dan pengurangan
+- Penjumlahan, pengurangan, perkalian, dan pembagian 
 
 ## Penulis
 - Muhamad Pasyafatir Adiyat
