@@ -1,6 +1,6 @@
 #Kalkulator sederhana
 
-#Proyek Latihan Praktim Git
+#Proyek Latihan Praktim Git dengan 2 branch
 
 #cara menjalankan
 
