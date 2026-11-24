@@ -1,4 +1,5 @@
-#Kalkulator sederhana Fatir
+
+#Kalkulator sederhana
 
 #Proyek Latihan Praktim Git dengan 2 branch
 
