@@ -32,3 +32,5 @@ if __name__ == "__main__":
     print(format_hasil(":", 8, 2, bagi(8, 2)))
     print(format_hasil("max", 10, 25, maksimum(10, 25)))
     print(format_hasil("^", 2, 10, pangkat(2, 10)))
+    print(format_hasil("^", 2, 10, pangkat(2, 10)))
+    print("akar 16 =", akar(16))
