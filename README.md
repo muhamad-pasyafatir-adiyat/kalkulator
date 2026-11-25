@@ -13,7 +13,7 @@ python3 kalkulator.py
 - Penjumlahan, pengurangan, dan perkalian.
 - Pembagian dengan pembulatan hingga dua angka desimal.
 - Nilai maksimum dari dua bilangan.
-- Perpangkatan dan modulus (sisa pembagian).
+- Perpangkatan dan modulus (sisa pembagian). Modulus menampilkan pesan kesalahan jika pembaginya nol.
 - Akar kuadrat dengan pembulatan hingga dua angka desimal.
 
 ## Penulis
